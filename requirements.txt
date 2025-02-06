@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+sentence-transformers
+joblib
+numpy
+re
+groq
+python-dotenv
